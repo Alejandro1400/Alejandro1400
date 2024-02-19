@@ -29,18 +29,18 @@
 
 Tools and Applications:
 
-    Matlab
-    Altium
-    ROS2
-    Power BI
-    Cloudera
+- Matlab
+- Altium
+- ROS2
+- Power BI
+- Cloudera
 
 Interests:
 
-    Robotics
-    Artificial Intelligence
-    Human-Robot Interaction
-    Computer Architecture
+- Robotics
+- Artificial Intelligence
+- Human-Robot Interaction
+- Computer Architecture
 
 ## Stats:
 
